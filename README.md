@@ -20,6 +20,7 @@
 <img alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-%23265074.svg?style=for-the-badge&logo=python&logoColor=white" />
   
 </p>
 
